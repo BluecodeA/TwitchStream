@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* SASS VARIABLES AND MIXINS */
+
+$bg-color: #673AB7;
+$text-color: #FFF;
+
+/* GENERIC CLASSES */
+
+body {
+  background-color: $bg-color;
+}
