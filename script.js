@@ -1,3 +1,5 @@
+/* THIS COMMENT WAS ADDED VIA GIT */
+
 console.log("JavaScript INITIATED");
 
 var data = {
